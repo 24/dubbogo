@@ -11,5 +11,5 @@ a golang micro-service framework compatible with alibaba dubbo. just using jsonr
 >
 > dubbogo 下一个版本(0.2.x)计划支持的codec 是dubbo(hessian)，transport protocol是tcp。
 >
-> QQ group: 196953050
+ 
 
